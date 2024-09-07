@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706289050202",
+    "project_id": "safarnama-f3014",
+    "storage_bucket": "safarnama-f3014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706289050202:android:0e61d0e90addc4dece2e63",
+        "android_client_info": {
+          "package_name": "com.example.safarnama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706289050202-n3dnilipvfqd504084guohl9jp324fdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdY7Xk5LBk8GRfVL2QqOAwdzxbBsqFwu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706289050202-n3dnilipvfqd504084guohl9jp324fdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
